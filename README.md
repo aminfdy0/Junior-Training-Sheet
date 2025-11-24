@@ -18,8 +18,8 @@ A curated and structured roadmap inspired by [Mostafa Saad's](https://github.com
 To quickly find the solution for a problem:
 
 1. Click on the **“Go to file”** search bar in GitHub.
-2. Type the **problem name in CamelCase** (each word starting with a capital letter).
+2. Type the **problem name in CamelCase** (each word or letter starting with a capital letter).
 3. GitHub will instantly filter files matching your input.
 ### Example
-Problem name: **Bear and Big Brother**  
-Search using: **`BearAndBigBrother`**
+Problem name: **Gravity Flip**  
+Search using: **`GravityFlip`**
