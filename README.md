@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 
-A curated and structured roadmap inspired by [Mostafa Saad's](https://github.com/mostafa-saad) [Juniors Training Sheet](https://docs.google.com/spreadsheets/d/1U09As2_OYcMsr74jkAwky1htJjo48EigW0sEOpfaM4M/edit?gid=84654839#gid=84654839) , designed to strengthen your foundations in:
+A curated and structured roadmap inspired by [Mostafa Saad's](https://github.com/mostafa-saad) [Juniors Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?gid=84654839#gid=84654839) , designed to strengthen your foundations in:
 
 - **Problem Solving**
 - **Data Structures**
